@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Shreyam</h1>
+<h3 align="center">Full-Stack Developer | Computer Science @ UNC Charlotte</h3>
+
+<p align="center">
+I build scalable full-stack applications and work on projects that solve real-world problems using modern technologies and AI.
+</p>
+
 # 💻 Tech Stack:
 
 ## 💻 Languages
