@@ -2,8 +2,43 @@
 <h3 align="center">Full-Stack Developer | Computer Science @ UNC Charlotte</h3>
 
 <p align="center">
-I build scalable full-stack applications and work on projects that solve real-world problems using modern technologies and AI.
+I build scalable full-stack applications and solve real-world problems using modern technologies, security best practices, and AI.
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🔥 **LifeLens** – AI-powered emergency detection system (React, FastAPI, HuggingFace DETR)
+- 📈 **Stock Portfolio Tracker (In Progress)** – Secure full-stack investment tracker with analytics + ML predictions
+- 🎬 **Movie Recommendation System** – Personalized recommendations using Node.js & Express
+- 🤖 **Algorithmic Trading Bot** – Backtesting + technical indicators (Python, Pandas, NumPy)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreyamPatel22&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ShreyamPatel22&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyamPatel22&theme=tokyo-night" />
+
+---
+
+## 👀 Profile Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShreyamPatel22&color=blue" />
+  <img src="https://img.shields.io/github/followers/ShreyamPatel22?label=Followers&style=social" />
+</p>
+
+---
 
 # 💻 Tech Stack:
 
