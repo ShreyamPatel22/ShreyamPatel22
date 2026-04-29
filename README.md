@@ -7,6 +7,25 @@ I build scalable full-stack applications and solve real-world problems using mod
 
 ---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShreyamPatel22&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ShreyamPatel22?label=Followers&style=flat-square&color=2563eb" alt="GitHub Followers" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShreyamPatel22&theme=github-dark&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Achievements" />
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+scalable+digital+solutions;Designing+next-gen+Web3+experiences;Merging+creativity,+tech+and+impact" alt="Professional Summary" />
+</p>
+
+<a href="https://shreyam-portfolio-ivory.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-0D1117?style=for-the-badge&logo=safari&logoColor=white&labelColor=58A6FF" alt="Portfolio Link" />
+</a>
+
+---
+
 ## 🚀 Featured Projects
 
 - 🔥 **LifeLens** – AI-powered emergency detection system (React, FastAPI, HuggingFace DETR)
